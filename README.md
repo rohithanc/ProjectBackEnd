@@ -46,7 +46,7 @@ A Jira Kanban board was used to keep track of the requirements and of the progre
 The Kanban board is made of User Stories consisting of tasks to be completed. The Kanban board had four sections- **backlog** for tasks that were scheduled but didn't have any progress made yet, **Selected For Development** for tasks that were to be worked upon, **In Progress** for tasks that were in progress and **Done** for tasks that have been completed.
 
 ### Risk Assessment
-The risk assessment can be found [here](https://docs.google.com/spreadsheets/d/1RX_Z2_qups059aEIWsgzTb4HGm352EHA6s6Jxi3qNWs/edit#gid=0)
+The risk assessment can be found [here](https://docs.google.com/spreadsheets/d/1RX_Z2_qups059aEIWsgzTb4HGm352EHA6s6Jxi3qNWs/edit#gid=0) / [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRuO2LKyoG2tcCBec8I9XLGibm4NtrnP5WUB94c6DryT6Z-KPkODIdA_qvlDzHpJo3lJpYZng6amJ5S/pub?gid=0&single=true&output=csv)
 
 ### Testing
 JUnit testing and Integration tests were used in order to test the application.
